@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "O que é SEO e por que ele continua relevante na era das IAs?"
+title: O que é SEO e por que ele continua relevante na era das IAs?
 date: 2025-07-29
-tags: [SEO, GEO, marketing digital]
+tags: [SEO]
+image: /blog-debora/assets/images/seo-era-ia.webp
 ---
 
 ![O que é SEO?](/assets/images/seo-era-ia.webp)
