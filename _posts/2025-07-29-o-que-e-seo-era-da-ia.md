@@ -6,7 +6,7 @@ tags: [SEO]
 image: /blog-debora/assets/images/seo-era-ia.webp
 ---
 
-(/assets/images/seo-era-ia.webp)
+![O que é SEO](/assets/images/seo-era-ia.webp)
 
 SEO ainda vale a pena? Eu ouço essa pergunta quase toda semana, de clientes e de gestores que só querem validar um corte de orçamento.
 
