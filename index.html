@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="blog-hero">
+  <h1>Blog <span style="background:linear-gradient(90deg,#e91e8c,#8b00e0);-webkit-background-clip:text;-webkit-text-fill-color:transparent">SEO & GEO</span></h1>
+  <p>Estratégias e aprendizados sobre como ser encontrado no Google e nas IAs.</p>
+</div>
+
+<div class="post-list">
+  {% for post in site.posts %}
+  <div class="post-card">
+    <p class="post-card-date">{{ post.date | date: "%d/%m/%Y" }}</p>
+    <div class="post-card-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+    <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    <a href="{{ post.url }}" class="read-more">Ler artigo →</a>
+  </div>
+  {% endfor %}
+</div>
