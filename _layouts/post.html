@@ -1,13 +1,209 @@
 ---
 layout: default
 ---
-<div class="post-wrap">
-  <div class="post-header">
-    <span class="post-tag">{{ page.tags | first }}</span>
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%d/%m/%Y" }} • Débora Machado</p>
-  </div>
-  <div class="post-body">
-    {{ content }}
-  </div>
+
+<!-- BREADCRUMB -->
+<div style="max-width:1100px;margin:100px auto 0;padding:24px 5% 0;">
+  <p style="font-size:.78rem;color:#9ca3af;">
+    <a href="https://debora9415.github.io/portfolio-debora/" style="color:#9ca3af;">Início</a>
+    <span style="margin:0 8px;">/</span>
+    <a href="/blog-debora/" style="color:#9ca3af;">Blog</a>
+    <span style="margin:0 8px;">/</span>
+    <span style="color:#1a1a1a;">{{ page.title }}</span>
+  </p>
 </div>
+
+<!-- LAYOUT DUAS COLUNAS -->
+<div class="post-outer">
+
+  <!-- COLUNA PRINCIPAL -->
+  <article class="post-main">
+
+    <!-- HEADER DO POST -->
+    <span class="post-tag-badge">{{ page.tags | first | default: "SEO" }}</span>
+    <h1 class="post-h1">{{ page.title }}</h1>
+
+    <div class="post-author-row">
+      <img src="https://debora9415.github.io/portfolio-debora/debora.png" alt="Débora Machado" class="post-avatar">
+      <div>
+        <strong style="font-size:.9rem;color:#1a1a1a;">Débora Machado</strong>
+        <p style="font-size:.78rem;color:#9ca3af;margin-top:2px;">
+          {{ page.date | date: "%d %b %Y" }} • {{ content | number_of_words | divided_by: 200 | plus: 1 }} min de leitura
+        </p>
+      </div>
+    </div>
+
+    <hr class="post-divider">
+
+    <!-- CONTEÚDO -->
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <!-- TAGS -->
+    <div class="post-tags-row">
+      {% for tag in page.tags %}
+      <span class="post-tag-pill">{{ tag }}</span>
+      {% endfor %}
+    </div>
+
+    <!-- COMPARTILHAR -->
+    <div class="share-box">
+      <p class="share-label">Compartilhar</p>
+      <div class="share-links">
+        <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20https://debora9415.github.io/blog-debora{{ page.url }}" target="_blank" class="share-btn share-wa">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.533 5.86L.057 23.25a.75.75 0 0 0 .916.932l5.544-1.453A11.953 11.953 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.885 0-3.65-.52-5.16-1.427l-.36-.216-3.294.864.88-3.21-.235-.373A9.96 9.96 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
+          WhatsApp
+        </a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://debora9415.github.io/blog-debora{{ page.url }}" target="_blank" class="share-btn share-li">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+          LinkedIn
+        </a>
+      </div>
+    </div>
+
+    <!-- BIO DA AUTORA -->
+    <div class="author-bio">
+      <img src="https://debora9415.github.io/portfolio-debora/debora.png" alt="Débora Machado" class="bio-avatar">
+      <div>
+        <strong style="font-size:1rem;color:#1a1a1a;display:block;margin-bottom:6px;">Débora Machado</strong>
+        <p style="font-size:.85rem;color:#6b7280;line-height:1.6;">Analista de SEO & Marketing de Conteúdo, especializada em posicionamento no Google e nas IAs generativas.</p>
+      </div>
+    </div>
+
+    <!-- POSTS RELACIONADOS -->
+    {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 3 %}
+    {% if related.size > 0 %}
+    <div class="related-posts">
+      <h2 class="related-title">Continue lendo</h2>
+      <div class="related-grid">
+        {% for post in related %}
+        <a href="{{ post.url }}" class="related-card">
+          <span class="related-tag">{{ post.tags | first | default: "SEO" }}</span>
+          <p class="related-card-title">{{ post.title }}</p>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+  </article>
+
+  <!-- SIDEBAR -->
+  <aside class="post-sidebar">
+
+    <!-- SUMÁRIO -->
+    <div class="sidebar-card">
+      <p class="sidebar-card-title">Neste artigo</p>
+      <div id="toc" class="toc-list">
+        <!-- gerado via JS -->
+      </div>
+    </div>
+
+    <!-- CTA SIDEBAR -->
+    <div class="sidebar-card sidebar-cta">
+      <p class="sidebar-card-title">Precisa de conteúdo assim no seu site?</p>
+      <p style="font-size:.82rem;color:#6b7280;margin:8px 0 16px;line-height:1.6;">Fale comigo e vamos estruturar sua estratégia de SEO e GEO.</p>
+      <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank" class="sidebar-cta-btn">Falar no WhatsApp</a>
+    </div>
+
+  </aside>
+
+</div>
+
+<!-- CSS ESPECÍFICO DO POST -->
+<style>
+.post-outer{
+  display:grid;
+  grid-template-columns:1fr 280px;
+  gap:40px;
+  max-width:1100px;
+  margin:32px auto 80px;
+  padding:0 5%;
+  align-items:start;
+}
+
+/* HEADER */
+.post-tag-badge{display:inline-block;padding:5px 14px;border-radius:20px;background:rgba(233,30,140,.1);color:#e91e8c;font-size:.75rem;font-weight:700;margin-bottom:16px;}
+.post-h1{font-size:clamp(1.7rem,3.5vw,2.4rem);font-weight:800;color:#1a1a1a;line-height:1.25;margin-bottom:20px;}
+.post-author-row{display:flex;align-items:center;gap:12px;margin-bottom:20px;}
+.post-avatar{width:44px;height:44px;border-radius:50%;object-fit:cover;border:2px solid rgba(233,30,140,.3);}
+.post-divider{border:none;border-top:1px solid rgba(0,0,0,.08);margin-bottom:32px;}
+
+/* BODY */
+.post-body{color:#374151;font-size:1rem;line-height:1.85;}
+.post-body h2{font-size:1.35rem;font-weight:800;color:#1a1a1a;margin:40px 0 14px;padding-top:8px;}
+.post-body h3{font-size:1.05rem;font-weight:700;color:#1a1a1a;margin:28px 0 10px;}
+.post-body p{margin-bottom:18px;}
+.post-body strong{color:#1a1a1a;}
+.post-body a{color:#e91e8c;border-bottom:1px solid rgba(233,30,140,.25);transition:.2s;}
+.post-body a:hover{opacity:.75;}
+.post-body blockquote{border-left:3px solid #e91e8c;padding:14px 20px;margin:24px 0;background:rgba(233,30,140,.05);border-radius:0 12px 12px 0;color:#4b5563;font-style:italic;}
+.post-body hr{border:none;border-top:1px solid rgba(0,0,0,.08);margin:36px 0;}
+.post-body ul,.post-body ol{margin:0 0 18px 24px;}
+.post-body li{margin-bottom:8px;}
+.post-body img{width:100%;border-radius:14px;margin:24px 0 8px;}
+.post-body em{color:#6b7280;font-size:.85rem;}
+
+/* TAGS */
+.post-tags-row{display:flex;flex-wrap:wrap;gap:8px;margin:32px 0 28px;}
+.post-tag-pill{padding:4px 14px;border-radius:20px;background:#f3f4f6;color:#6b7280;font-size:.72rem;font-weight:600;}
+
+/* COMPARTILHAR */
+.share-box{background:#f9fafb;border-radius:16px;padding:20px 24px;margin-bottom:32px;}
+.share-label{font-size:.78rem;font-weight:700;color:#9ca3af;margin-bottom:12px;text-transform:uppercase;letter-spacing:.05em;}
+.share-links{display:flex;gap:10px;}
+.share-btn{display:inline-flex;align-items:center;gap:7px;padding:8px 16px;border-radius:10px;font-size:.78rem;font-weight:600;transition:.2s;}
+.share-btn:hover{opacity:.85;}
+.share-wa{background:#25d366;color:white;}
+.share-li{background:#0077b5;color:white;}
+
+/* BIO */
+.author-bio{display:flex;gap:16px;align-items:flex-start;background:#f9fafb;border-radius:16px;padding:22px;margin-bottom:40px;}
+.bio-avatar{width:56px;height:56px;border-radius:50%;object-fit:cover;border:2px solid rgba(233,30,140,.3);flex-shrink:0;}
+
+/* RELACIONADOS */
+.related-title{font-size:1.1rem;font-weight:800;color:#1a1a1a;margin-bottom:16px;}
+.related-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;}
+.related-card{background:#fff;border:1px solid rgba(0,0,0,.07);border-radius:14px;padding:16px;display:block;transition:.3s;}
+.related-card:hover{border-color:rgba(233,30,140,.3);transform:translateY(-3px);}
+.related-tag{display:inline-block;padding:2px 10px;border-radius:20px;background:rgba(233,30,140,.08);color:#e91e8c;font-size:.65rem;font-weight:700;margin-bottom:8px;}
+.related-card-title{font-size:.82rem;font-weight:600;color:#1a1a1a;line-height:1.4;}
+
+/* SIDEBAR */
+.post-sidebar{position:sticky;top:90px;}
+.sidebar-card{background:#fff;border:1px solid rgba(0,0,0,.07);border-radius:18px;padding:22px;margin-bottom:20px;}
+.sidebar-card-title{font-size:.78rem;font-weight:800;color:#9ca3af;text-transform:uppercase;letter-spacing:.06em;margin-bottom:14px;}
+.toc-list{display:flex;flex-direction:column;gap:8px;}
+.toc-link{font-size:.82rem;color:#6b7280;line-height:1.4;transition:.2s;padding-left:0;}
+.toc-link:hover{color:#e91e8c;}
+.toc-link.h3{padding-left:12px;font-size:.78rem;}
+.sidebar-cta{background:linear-gradient(135deg,rgba(233,30,140,.07),rgba(139,0,224,.07));border-color:rgba(233,30,140,.15);}
+.sidebar-cta-btn{display:block;text-align:center;background:linear-gradient(90deg,#e91e8c,#8b00e0);color:white;padding:10px 16px;border-radius:10px;font-size:.82rem;font-weight:700;transition:.3s;}
+.sidebar-cta-btn:hover{opacity:.85;}
+
+@media(max-width:900px){
+  .post-outer{grid-template-columns:1fr;}
+  .post-sidebar{display:none;}
+  .related-grid{grid-template-columns:1fr;}
+}
+</style>
+
+<!-- SUMÁRIO AUTOMÁTICO VIA JS -->
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  var toc = document.getElementById('toc');
+  if(!toc) return;
+  var headings = document.querySelectorAll('.post-body h2, .post-body h3');
+  if(headings.length === 0){ toc.parentElement.style.display='none'; return; }
+  headings.forEach(function(h){
+    var id = h.textContent.toLowerCase().replace(/[^a-z0-9]+/g,'-');
+    h.id = id;
+    var a = document.createElement('a');
+    a.href = '#' + id;
+    a.className = 'toc-link' + (h.tagName==='H3' ? ' h3' : '');
+    a.textContent = h.textContent;
+    toc.appendChild(a);
+  });
+});
+</script>
