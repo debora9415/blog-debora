@@ -2,9 +2,7 @@
 layout: post
 title: "O que é SEO e por que ele continua relevante na era das IAs?"
 date: 2025-07-29
-description: "Entenda o que é SEO, como ele se conecta ao GEO e por que a otimização para buscadores continua relevante mesmo com o avanço da IA generativa."
-tags: [SEO, GEO, marketing digital, IA generativa, otimização para buscadores]
-author: Débora Machado
+tags: [SEO, GEO, marketing digital]
 ---
 
 SEO ainda vale a pena? Eu ouço essa pergunta quase toda semana, de clientes e de gestores que só querem validar um corte de orçamento.
