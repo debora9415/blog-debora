@@ -1,0 +1,94 @@
+---
+layout: post
+title: "O que é SEO e por que ele continua relevante na era das IAs?"
+date: 2025-07-29
+description: "Entenda o que é SEO, como ele se conecta ao GEO e por que a otimização para buscadores continua relevante mesmo com o avanço da IA generativa."
+tags: [SEO, GEO, marketing digital, IA generativa, otimização para buscadores]
+author: Débora Machado
+---
+
+SEO ainda vale a pena? Eu ouço essa pergunta quase toda semana, de clientes e de gestores que só querem validar um corte de orçamento.
+
+A dúvida cresceu depois que o **ChatGPT** e os **AI Overviews do Google** passaram a responder perguntas direto na tela de busca, sem clique nenhum — e boa parte do mercado aproveitou para decretar a morte do SEO.
+
+Porém, os números contam outra história. Em 2025, **44,6% das empresas brasileiras** disseram que pretendiam aumentar o investimento em busca orgânica, segundo levantamento da [Conversion citado pela Agência Mestre](https://www.agenciamestre.com/seo/investir-em-seo-ainda-faz-sentido-entenda/). E isso não é comportamento de quem acredita que o canal perdeu relevância.
+
+A explicação é que o **SEO não morreu, ele ampliou a sua função**. Essa mudança começa em um ponto que muita gente ainda define errado: o que é SEO de verdade.
+
+---
+
+## Mas afinal, o que é SEO?
+
+**SEO** (*Search Engine Optimization*, ou otimização para mecanismos de busca) é o **conjunto de práticas técnicas, estruturais e de conteúdo que fazem um site ser encontrado, entendido e recomendado por sistemas de busca.** Isso vai da velocidade de carregamento da página até a forma como um texto responde à pergunta real de quem está pesquisando.
+
+A finalidade não é apenas aparecer no Google, mas ter a resposta certa, na hora certa, para alguém que está decidindo alguma coisa — comprar, contratar, comparar, entender. O SEO bem feito entrega isso antes de a pessoa perceber que precisava.
+
+> *O SEO não morreu, ele ampliou a sua função.*
+
+---
+
+## O mercado de SEO não está encolhendo, está se reorganizando
+
+Com o custo de mídia paga subindo por causa da concorrência no leilão de anúncios, **o SEO virou o canal que sobra quando o CPM aperta** — não por modismo, mas porque é o único que fica mais barato conforme o site acumula autoridade.
+
+### A ressalva que ninguém deveria ignorar
+
+A forma como as pessoas buscam informação está mudando. Projeções da Gartner indicam que [o volume de buscas tradicionais deve cair 25% até 2026 e 50% até 2028](https://www.band.com.br/band-vale/noticias/as-10-melhores-agencias-de-seo-e-geo-do-brasil-em-2026-202606231332), à medida que mais gente migra para **assistentes de IA generativa**.
+
+E o Brasil está atrasado nessa virada: apenas **1,2% das empresas brasileiras** têm algum tipo de otimização estruturada para IA generativa, contra 23% nos Estados Unidos. Isso não é motivo para largar o SEO de lado — mas para expandir o que ele significa.
+
+---
+
+## Por que o SEO continua sendo a base, mesmo com a IA no meio do caminho?
+
+Os **AI Overviews do Google** já aparecem em cerca de 48% das buscas rastreadas, [um salto de 58% em relação ao ano anterior](https://babitonhela.com/blog/google-ai-overviews-como-aparecer/). O efeito prático: dados da Ahrefs mostram que a presença de um resumo gerado por IA reduz o **CTR** da primeira posição orgânica em cerca de 58%. Menos gente clica, porque a resposta já apareceu ali em cima.
+
+Só que tem um detalhe: **os AI Overviews puxam informação quase só de páginas que já ranqueiam bem organicamente**. Não existe atalho para ser citado por uma IA sem antes ter uma base técnica de SEO sólida.
+
+E 63% das empresas relataram que os AI Overviews impactaram positivamente seu tráfego — porque ser citado dentro de uma resposta de IA costuma trazer um visitante mais qualificado, mesmo em menor volume.
+
+> *O SEO deixou de ser só sobre ranking e passou a valer também pela citação.*
+
+Chamam isso de **GEO (*Generative Engine Optimization*)** — a otimização para que ferramentas como ChatGPT, Perplexity e o próprio Google com IA entendam, confiem e recomendem seu conteúdo como fonte.
+
+### O que muda na rotina de quem trabalha com SEO?
+
+Estrutura técnica de dados, uso de *schema markup*, respostas diretas logo no início de cada seção, autoria clara e atualização frequente. Isso deixou de ser diferencial e virou exigência de entrada.
+
+As **diretrizes de qualidade do Google** atualizadas em setembro de 2025 já cobram sinais reais de autoridade e experiência, e penalizam quem tenta forjar isso.
+
+O **E-E-A-T** (Experience, Expertise, Authoritativeness e Trustworthiness) ganhou ainda mais relevância com a popularização das IAs. Em um cenário onde qualquer pessoa pode gerar conteúdo em segundos, o Google passou a valorizar evidências concretas de experiência prática, conhecimento especializado, autoridade reconhecida e confiabilidade da informação.
+
+Conteúdo parado também perde relevância mais depressa do que perdia antes. Uma página sem revisão há mais de três meses tende a cair de posição e de citação em ritmo acelerado.
+
+---
+
+## O benefício real do SEO para quem decide o orçamento
+
+**Nenhuma empresa sobrevive de tráfego bruto.** O que importa é a pessoa certa chegando no momento certo — seja por um clique tradicional ou por uma citação dentro de uma resposta de IA.
+
+Quem constrói autoridade de conteúdo hoje treina o próprio site para duas coisas ao mesmo tempo: **aparecer bem no Google tradicional e ser escolhido como fonte pelos modelos de IA** que já decidem boa parte do que uma pessoa vai ler antes mesmo de ela abrir um site.
+
+Se você é gestor e está com orçamento de tráfego pago apertado, posicionamento orgânico abaixo do esperado e nenhuma menção da sua marca nas respostas de IA — esse é o momento de rever a estratégia. [Fale comigo pelo WhatsApp](https://wa.me/55SEUNUMEROAQUI) e vamos conversar sobre o próximo passo.
+
+---
+
+## Perguntas frequentes sobre SEO
+
+**O que significa SEO, resumindo em uma frase?**
+É o trabalho de tornar um site compreensível, tecnicamente saudável e relevante o suficiente para ser recomendado por mecanismos de busca e, agora, por ferramentas de IA generativa.
+
+**SEO ainda funciona com o crescimento do ChatGPT e das buscas por IA?**
+Funciona, e de um jeito até mais decisivo. As ferramentas de IA citam majoritariamente páginas que já têm uma base sólida de SEO. Sem essa base, não há chance de aparecer em uma resposta gerada por IA.
+
+**Quanto tempo leva para ver resultado com SEO?**
+Normalmente entre quatro e doze meses para resultados consistentes, dependendo da concorrência do nicho e do estado técnico do site no início do trabalho. É investimento de acúmulo, não de resposta imediata.
+
+**Qual a diferença entre SEO e GEO?**
+SEO otimiza para ranquear bem nas páginas de busca tradicionais. GEO (*Generative Engine Optimization*) otimiza para ser entendido, confiado e citado por sistemas de IA generativa. Hoje os dois andam juntos, e um depende do outro.
+
+**Vale a pena investir em SEO para uma empresa pequena?**
+Vale, principalmente porque o custo por resultado tende a cair com o tempo, ao contrário da mídia paga. Empresas pequenas costumam levar vantagem porque conseguem produzir conteúdo mais específico — e isso pesa a favor delas tanto no Google tradicional quanto nas respostas de IA.
+
+**SEO substitui anúncios pagos?**
+Não substitui, complementa. Tráfego pago traz volume rápido, SEO constrói uma base de visibilidade que se sustenta mesmo quando o orçamento de anúncios acaba.
