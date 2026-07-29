@@ -5,6 +5,8 @@ date: 2025-07-29
 tags: [SEO, GEO, marketing digital]
 ---
 
+![O que é SEO?](/assets/images/seo-era-ia.webp)
+
 SEO ainda vale a pena? Eu ouço essa pergunta quase toda semana, de clientes e de gestores que só querem validar um corte de orçamento.
 
 A dúvida cresceu depois que o **ChatGPT** e os **AI Overviews do Google** passaram a responder perguntas direto na tela de busca, sem clique nenhum e boa parte do mercado aproveitou para decretar a morte do SEO.
