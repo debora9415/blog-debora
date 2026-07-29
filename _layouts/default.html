@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title }} | Débora Machado</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Poppins',sans-serif;background:#0c0c0c;color:#fff;}
+a{color:#e91e8c;text-decoration:none;}
+a:hover{opacity:.8;}
+
+nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(12,12,12,.9);backdrop-filter:blur(14px);border-bottom:1px solid rgba(255,255,255,.07);padding:14px 5%;}
+.nav-inner{max-width:1100px;margin:auto;display:flex;align-items:center;justify-content:space-between;}
+.nav-logo{font-weight:800;font-size:1rem;color:#fff;}
+.nav-logo span{background:linear-gradient(90deg,#e91e8c,#8b00e0);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+.nav-links{display:flex;gap:24px;list-style:none;}
+.nav-links a{color:#9ca3af;font-size:.85rem;font-weight:500;}
+.nav-links a:hover{color:#fff;}
+.nav-cta{padding:9px 22px;background:linear-gradient(90deg,#e91e8c,#8b00e0);color:white;border-radius:10px;font-size:.85rem;font-weight:700;}
+
+.page-wrap{max-width:780px;margin:120px auto 80px;padding:0 5%;}
+
+/* POST */
+.post-tag{display:inline-block;padding:6px 16px;border-radius:30px;border:1px solid rgba(233,30,140,.35);color:#e91e8c;font-size:.82rem;font-weight:500;margin-bottom:20px;}
+.post-title{font-size:clamp(1.8rem,4vw,2.8rem);font-weight:800;line-height:1.2;margin-bottom:16px;}
+.post-meta{color:#6b7280;font-size:.82rem;margin-bottom:40px;padding-bottom:24px;border-bottom:1px solid rgba(255,255,255,.07);}
+.post-content{color:#d1d5db;font-size:1rem;line-height:1.85;}
+.post-content h2{font-size:1.4rem;font-weight:700;color:#fff;margin:40px 0 16px;}
+.post-content h3{font-size:1.1rem;font-weight:600;color:#e2e8f0;margin:28px 0 12px;}
+.post-content p{margin-bottom:18px;}
+.post-content strong{color:#fff;}
+.post-content em{color:#e91e8c;font-style:normal;}
+.post-content a{color:#e91e8c;border-bottom:1px solid rgba(233,30,140,.3);}
+.post-content blockquote{border-left:3px solid #e91e8c;padding:12px 20px;margin:24px 0;background:rgba(233,30,140,.06);border-radius:0 12px 12px 0;color:#e2e8f0;font-style:italic;}
+.post-content hr{border:none;border-top:1px solid rgba(255,255,255,.07);margin:36px 0;}
+.post-content ul,ol{margin:0 0 18px 24px;}
+.post-content li{margin-bottom:8px;}
+
+/* INDEX */
+.blog-hero{padding:80px 5% 40px;text-align:center;}
+.blog-hero h1{font-size:clamp(2rem,4vw,3rem);font-weight:800;margin-bottom:12px;}
+.blog-hero p{color:#9ca3af;font-size:1rem;}
+.post-list{max-width:780px;margin:0 auto;padding:0 5% 80px;}
+.post-card{background:#161616;border:1px solid rgba(255,255,255,.07);border-radius:20px;padding:28px 32px;margin-bottom:20px;transition:.3s;}
+.post-card:hover{border-color:rgba(233,30,140,.35);transform:translateY(-4px);}
+.post-card-date{color:#6b7280;font-size:.78rem;margin-bottom:8px;}
+.post-card-title{font-size:1.15rem;font-weight:700;color:#fff;margin-bottom:10px;}
+.post-card-title a{color:#fff;}
+.post-card-title a:hover{color:#e91e8c;}
+.post-card-excerpt{color:#9ca3af;font-size:.88rem;line-height:1.6;}
+.read-more{display:inline-block;margin-top:14px;color:#e91e8c;font-size:.82rem;font-weight:600;}
+
+footer{background:#080808;padding:40px 5%;text-align:center;border-top:1px solid rgba(255,255,255,.07);color:#4b5563;font-size:.78rem;}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="https://debora9415.github.io/portfolio-debora/" class="nav-logo">Débora <span>Machado</span></a>
+    <ul class="nav-links">
+      <li><a href="https://debora9415.github.io/portfolio-debora/#sobre">Sobre</a></li>
+      <li><a href="https://debora9415.github.io/portfolio-debora/#servicos">Serviços</a></li>
+      <li><a href="https://debora9415.github.io/portfolio-debora/#feedbacks">Feedbacks</a></li>
+      <li><a href="/blog-debora/">Blog</a></li>
+    </ul>
+    <a href="https://wa.me/55SEUNUMEROAQUI" class="nav-cta">Contato</a>
+  </div>
+</nav>
+
+{{ content }}
+
+<footer>
+  Débora Machado • SEO & Marketing Digital
+</footer>
+
+</body>
+</html>
