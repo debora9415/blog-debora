@@ -82,7 +82,7 @@ layout: default
       <h2 class="related-title">Continue lendo</h2>
       <div class="related-grid">
         {% for post in related %}
-        <a href="{{ post.url }}" class="related-card">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="related-card"> 
           <span class="related-tag">{{ post.tags | first | default: "SEO" }}</span>
           <p class="related-card-title">{{ post.title }}</p>
         </a>
@@ -144,7 +144,7 @@ layout: default
 }
 
 /* BODY */
-.post-body{color:#374151;font-size:1rem;line-height:1.85;}
+.post-body{color:#374151;font-size:1.1rem;line-height:1.85;}
 .post-body h2{font-size:1.35rem;font-weight:800;color:#1a1a1a;margin:40px 0 14px;padding-top:8px;}
 .post-body h3{font-size:1.05rem;font-weight:700;color:#1a1a1a;margin:28px 0 10px;}
 .post-body p{margin-bottom:18px;}
