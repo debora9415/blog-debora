@@ -41,7 +41,7 @@ title: Blog
       </div>
       <div class="post-card-body">
         <span class="post-card-tag">{{ post.tags | first | default: "SEO" }}</span>
-        <div class="post-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+        <div class="post-card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
         <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
         <div class="post-card-meta">
           <span class="post-card-date">{{ post.date | date: "%d/%m/%Y" }}</span>
