@@ -2,7 +2,7 @@
 layout: post
 title: "SEO para IA e como aparecer no ChatGPT, Google AI e outras IAs em 2026"
 date: 2025-07-30
-permalink: /blog-debora/o-que-e-seo/
+permalink: /o-que-e-seo/
 tags: [SEO para IA, GEO, LLMO, ChatGPT Search, AI Overviews]
 description: "SEO para IA em 2026, como o ChatGPT, o Google AI Overviews e o Perplexity escolhem fontes, o que é GEO e LLMO, e o checklist prático para aparecer nas respostas geradas por IA."
 ---
