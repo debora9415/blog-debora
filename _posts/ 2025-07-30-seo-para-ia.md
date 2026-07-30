@@ -63,10 +63,6 @@ Na prática, isso significa que ignorar o Google continua sendo um erro. O próp
 
 A outra metade é dar atenção ao [Bing Webmaster Tools](https://citora.es/blog/chatgpt-no-mira-google-mira-bing-por-que-tu-indice-bing-decide-2026), que segue subestimado pela maioria das agências brasileiras, mesmo alimentando parte relevante do que o ChatGPT enxerga.
 
-## O que fazer para aparecer no ChatGPT?
-
-Você pode transformar esse trecho em um passo a passo mais escaneável, ideal para blog:
-
 ## **Passo a passo para aumentar as chances de ser citado pelo ChatGPT Search**
 
 ### **1\. Cadastre seu site no Bing Webmaster Tools**
