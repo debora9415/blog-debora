@@ -7,8 +7,6 @@ tags: [SEO para IA, GEO, LLMO, ChatGPT Search, AI Overviews]
 description: "SEO para IA em 2026, como o ChatGPT, o Google AI Overviews e o Perplexity escolhem fontes, o que é GEO e LLMO, e o checklist prático para aparecer nas respostas geradas por IA."
 ---
 
-# SEO para IA e como aparecer no ChatGPT, Google AI e outras IAs em 2026
-
 Em dezembro de 2025, a [Ahrefs analisou 300 mil palavras-chave](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/) e chegou a um número que deveria assustar qualquer site que ainda mede sucesso só pela **posição no Google**. Quando um **AI Overview** aparece acima do primeiro resultado orgânico, o CTR da posição um cai **58%**. Oito meses antes, essa mesma queda era de **34,5%**, esse ritmo não é de ajuste, é de colapso.
 
 Isso muda a pergunta que qualquer analista de marketing precisa responder. Não é mais "como eu apareço no Google", é "como a IA me cita quando alguém pergunta sobre o meu setor". E é exatamente aqui que entra o **SEO para IA**, um conjunto de práticas que, goste você ou não do nome, já decide quem é visto e quem é ignorado nas conversas que acontecem dentro do **ChatGPT**, do **Gemini**, do **Google AI Mode** e do **Perplexity**.
