@@ -3,8 +3,8 @@ layout: post
 title: "SEO para IA e como aparecer no ChatGPT, Google AI e outras IAs em 2026"
 date: 2025-07-30
 permalink: /seo-para-ia/
-tags: [SEO, GEO, marketing digital]
-description: "Entenda o que é SEO, como ele se conecta ao GEO e por que a otimização para buscadores continua relevante mesmo com o avanço da IA generativa."
+tags: [SEO para IA, GEO, LLMO, ChatGPT Search, AI Overviews]
+description: "SEO para IA em 2026, como o ChatGPT, o Google AI Overviews e o Perplexity escolhem fontes, o que é GEO e LLMO, e o checklist prático para aparecer nas respostas geradas por IA."
 ---
 
 # SEO para IA e como aparecer no ChatGPT, Google AI e outras IAs em 2026
@@ -196,9 +196,3 @@ Não. O próprio Google já disse que o arquivo não é necessário para aparece
 **Quanto tempo leva para ver resultado em GEO?** 
 
 Não existe prazo fixo, porque depende do volume de conteúdo já indexado e da concorrência no nicho. Um diagnóstico inicial, testando prompts manualmente em três ou quatro IAs, já mostra o ponto de partida em uma tarde de trabalho.
-
----
-
-Meta description — SEO para IA em 2026, como o ChatGPT, o Google AI Overviews e o Perplexity escolhem fontes, o que é GEO e LLMO, e o checklist prático para aparecer nas respostas geradas por IA.
-
-Tags sugeridas — SEO para IA, GEO, LLMO, ChatGPT Search, AI Overviews  
