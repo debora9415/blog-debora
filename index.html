@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 <div class="blog-hero">
-  <span class="hero-tag">Blog</span>
+  <span class="hero-tag">Blog</span> 
   <h1>SEO na era da <span>Inteligência Artificial</span></h1>
   <p>Estratégias e aprendizados sobre como ser encontrado no Google e nas inteligências artificiais.</p>
 </div>
@@ -18,7 +18,7 @@ title: Blog
 {% assign featured = site.posts.first %}
 {% if featured %}
 <div class="featured-wrap">
-  <a href="{{ featured.url }}" class="featured-card">
+  <a href="{{ site.baseurl }}{{ featured.url }}" class="featured-card">
     <div class="featured-img">
       <svg viewBox="0 0 24 24" fill="none" stroke="#e91e8c" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
     </div>
