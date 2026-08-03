@@ -31,7 +31,7 @@ O Local Pack concentra a maior parte da atenção de quem busca. Um [levantament
 
 O **SEO local** é o conjunto de práticas que aumenta a visibilidade de uma empresa para buscas feitas perto dela. Segundo um [levantamento de 2026 compilado a partir de dados do Google, BrightLocal e Moz](https://www.digitalapplied.com/blog/local-seo-statistics-2026-data-points)
 
-**\> 46% de todas as buscas no Google já têm intenção local.**
+> 46% de todas as buscas no Google já têm intenção local.
 
 A mesma pesquisa mostra que 76% das pessoas que fazem uma busca local pelo celular visitam uma loja física em até 24 horas. Quem não aparece nessa busca simplesmente não existe pro cliente que está pronto para comprar. Eu mesma costumo fazer isso. 
 
@@ -50,23 +50,23 @@ Repara que a ficha sozinha pesa mais do que qualquer outro fator que a empresa c
 
 Completar a ficha inteira é o passo que mais retorna. Segundo o mesmo levantamento de 2026 que citamos lá em cima, empresas com **ficha do Google Meu Negócio** completa recebem 70% mais visitas ao local do que quem deixa a ficha pela metade. Por isso, é preciso seguir alguns passos: 
 
-1. ### **Escolha a categoria principal corretamente**
+### **1. Escolha a categoria principal corretamente**
 
 Defina a **categoria principal** com cuidado. Segundo a **Whitespark**, esse é o **segundo fator mais comum** que faz uma empresa ranquear mal no **Google Map Pack**.
 
-2. ### **Adicione fotos reais**
+### **2. Adicione fotos reais**
 
 Inclua **fotos atualizadas e de boa qualidade** da empresa. Além de transmitir mais confiança aos usuários, elas ajudam o Google a compreender melhor o negócio.
 
-3. ### **Mantenha os horários atualizados**
+### **3.Mantenha os horários atualizados**
 
 Revise sempre o **horário de funcionamento** da empresa. Informações incorretas prejudicam a experiência do usuário e podem afetar o desempenho da ficha.
 
-4. ### **Liste todos os serviços**
+### **4. Liste todos os serviços**
 
 Cadastre **todos os serviços oferecidos**. Quanto mais completa estiver a ficha, mais fácil será para o Google entender exatamente o que a empresa faz.
 
-5. ### **Mantenha o NAP consistente**
+### **5. Mantenha o NAP consistente**
 
 Garanta que o **Nome, Endereço e Telefone (NAP)** sejam **idênticos em todos os diretórios e citações online**. Um levantamento de **2026** mostrou que a consistência do NAP entre listagens de múltiplas unidades pode gerar um ganho de **até 31% no SEO local**.
 
@@ -76,7 +76,7 @@ Não. Ter a **ficha do Google Meu Negócio** completa é necessário, mas sozinh
 
 Isso significa que uma ficha impecável ao lado de um **site desatualizado**, ou de **dados de endereço divergentes** em outro diretório, ainda **derruba a confiança do Google** na empresa. 
 
-\> Ficha e site precisam contar a mesma história.
+> Ficha e site precisam contar a mesma história.
 
 ## Avaliações continuam sendo o fator que mais cresce
 
