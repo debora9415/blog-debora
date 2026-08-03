@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "SEO para IA e como aparecer no ChatGPT, Google AI e outras IAs em 2026"
+title: "SEO para IA: como aparecer no ChatGPT, Google AI e outras IAs em 2026"
 date: 2025-07-30
-permalink: /blog.beeseo.com.br/seo_ia_2026/
-image: /blog-debora/assets/images/seo_ia_2026.jpg
+permalink: /seo-para-ia/
+image: /assets/images/seo_ia_2026.jpg
 tags: [SEO para IA, GEO, LLMO, ChatGPT Search, AI Overviews]
-description: "SEO para IA em 2026, como o ChatGPT, o Google AI Overviews e o Perplexity escolhem fontes, o que é GEO e LLMO, e o checklist prático para aparecer nas respostas geradas por IA."
+description: "SEO para IA em 2026: como o ChatGPT, o Google AI Overviews e o Perplexity escolhem fontes, o que é GEO e LLMO, e o checklist prático para aparecer nas respostas geradas por IA."
 ---
 
 Em dezembro de 2025, a [Ahrefs analisou 300 mil palavras-chave](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/) e chegou a um número que deveria assustar qualquer site que ainda mede sucesso só pela **posição no Google**. Quando um **AI Overview** aparece acima do primeiro resultado orgânico, o CTR da posição um cai **58%**. Oito meses antes, essa mesma queda era de **34,5%**, esse ritmo não é de ajuste, é de colapso.
