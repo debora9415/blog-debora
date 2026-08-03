@@ -3,7 +3,7 @@ layout: post
 title: "Google Meu Negócio: como aparecer no Google Maps e dominar o SEO local"
 date: 2025-08-03
 permalink: /google-meu-negocio/
-image: /assets/images/google-meu-negocio.png
+image: /assets/images/location-symbol-coffee-cups.png
 description: "Aprenda como otimizar o Google Meu Negócio para aparecer no Google Maps, atrair mais clientes e fortalecer sua estratégia de SEO local."
 tags:
   - SEO Local
