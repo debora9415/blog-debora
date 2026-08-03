@@ -3,5 +3,5 @@ description: SEO, GEO e Marketing de Conteúdo
 author: Débora Machado
 theme: minima
 lang: pt-BR
-url: "https://blog.beeseo.com.br"
-baseurl: ""
+url: https://blog.beeseo.com.br
+baseurl:
