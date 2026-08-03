@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Google Meu Negócio: como aparecer no Google Maps e dominar o SEO local
-date: 2025-08-03-google-neu-negócio
-permalink: /google-neu-negócio/
-image: /assets/images/google-neu-negócio.png
+title: "Google Meu Negócio: como aparecer no Google Maps e dominar o SEO local"
+date: 2025-08-03
+permalink: /google-meu-negocio/
+image: /assets/images/google-meu-negocio.png
+description: "Aprenda como otimizar o Google Meu Negócio para aparecer no Google Maps, atrair mais clientes e fortalecer sua estratégia de SEO local."
 tags:
-description: "..."
+  - SEO Local
+  - Google Meu Negócio
+  - Google Maps
+  - Marketing Digital
 ---
 
 Quase metade de tudo que é pesquisado no Google hoje tem **intenção local,** e boa parte dessas buscas termina numa compra no mesmo dia. Isso torna o **Google Meu Negócio** a ferramenta de marketing mais barata e mais subestimada que uma empresa física pode ter.
