@@ -3,7 +3,7 @@ layout: post
 title: "SEO e tráfego pago, qual estratégia gera mais resultado para sua empresa"
 date: 2025-07-04
 permalink: /seo-e-trafego-pago/
-image: /assets/images/seo-e-trafego-pago.png
+image: /assets/images/seo-e-trafego.png
 tags: [seo-e-trafego-pago, trafego-organico, marketing-digital]
 description: "Comparamos SEO e tráfego pago em custo, prazo e sustentabilidade para você decidir qual estratégia gera mais resultado para sua empresa."
 ---
