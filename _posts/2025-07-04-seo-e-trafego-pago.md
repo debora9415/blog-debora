@@ -50,7 +50,7 @@ Isso não invalida o tráfego pago, só deixa claro qual dos dois compensa mais 
 
 Antes de decidir entre os dois canais, vale **entender as métricas que realmente importam para tomada de decisão**. A tabela abaixo resume os principais pontos de comparação.
 
-![](/blog-beeseo/assets/images/seo-e-trafego-pago.png)
+![.](/blog-beeseo/assets/images/seo-e-trafego-pago.png)
 
 A tabela ajuda a visualizar as diferenças, mas a decisão real quase nunca é escolher só uma coluna e ignorar a outra por completo.
 
