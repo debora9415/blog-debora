@@ -48,7 +48,7 @@ O caminho segue o fluxo que qualquer pessoa que já usa o Search Console reconhe
 4. Autorize a conexão com a conta que você quer medir.  
 5. Aguarde a verificação ser concluída. O Google confirma o acesso e libera os relatórios da conta.
 
-![](/blog-beeseo/assets/images/painel.webp)
+![Painel do Google Search Console](/assets/images/painel.webp)
 
 Vale lembrar que a liberação não foi imediata para todo mundo. O próprio Google avisou, no post de lançamento: "The platform properties will become available gradually over the coming weeks", texto publicado no Google Search Central Blog em 7 de julho de 2026\. Isso se confirmou. Só no fim do mês o recurso chegou a todas as contas.
 
@@ -86,7 +86,7 @@ Essa mudança conversa direto com outro assunto que já tratei aqui, o de [SEO e
 
 ## Google Search Console x métricas nativas das redes sociais
 
-![](/blog-beeseo/assets/images/inforgrafico-google.webp)
+![Infografico](/assets/images/infografico-google.webp)
 
 ## A busca não vive mais só no site
 
