@@ -4,7 +4,7 @@ title: "Platform Properties e Google Search Console, tudo sobre a nova integraç
 date: 2025-08-08
 permalink: /platform-properties/
 image: /assets/images/platform-properties.webp
-tags: [platform-properties,google-search-console, redes-sociais, seo]
+tags: [Marketing Digital]
 description: "Entenda como o Google Search Console passou a medir redes sociais com o platform properties, o que ele mostra e como ativar na sua conta."
 ---
 
