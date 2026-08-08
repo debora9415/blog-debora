@@ -1,10 +1,12 @@
-description: "Entenda como o Google Search Console passou a medir redes sociais com o platform properties, o que ele mostra e como ativar na sua conta."   
-keywords: "google-search-console, redes sociais, platform properties, seo, search console 2026"   
-date: 2026-08-06   
-categories: \[seo\] tags: \[google-search-console, redes-sociais, seo\]  
 ---
-
-# Platform Properties e Google Search Console, tudo sobre a nova integração com Redes Sociais
+layout: post
+title: "Platform Properties e Google Search Console, tudo sobre a nova integração com Redes Sociais"
+date: 2025-08-08
+permalink: /platform-properties/
+image: /assets/images/platform-properties.webp
+tags: [platform-properties,google-search-console, redes-sociais, seo]
+description: "Entenda como o Google Search Console passou a medir redes sociais com o platform properties, o que ele mostra e como ativar na sua conta."
+---
 
 Até junho deste ano, se um post seu no Instagram aparecesse na Busca do Google, você não tinha como saber. O **Google Search Console** só enxergava sites. Isso mudou em julho, e a mudança interessa diretamente a quem trabalha com **redes sociais** e SEO ao mesmo tempo.
 
@@ -28,7 +30,7 @@ A novidade não nasceu do zero. Em dezembro de 2025 o Search Console já testava
 
 Por enquanto, quatro. **Instagram, TikTok, X e YouTube** são as plataformas suportadas no lançamento de julho de 2026, segundo o anúncio oficial do [Google Search Central Blog](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide). LinkedIn, Pinterest e outras redes ficaram de fora dessa primeira leva, o que limita o impacto imediato para operações B2B concentradas no LinkedIn.
 
-\>Instagram é acessado por 91,2% dos internautas brasileiros com 16 anos 
+>Instagram é acessado por 91,2% dos internautas brasileiros com 16 anos 
 
 ## Preciso ter um site para usar o platform properties?
 
