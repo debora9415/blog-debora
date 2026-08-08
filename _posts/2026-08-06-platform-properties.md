@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Platform Properties e Google Search Console, tudo sobre a nova integração com Redes Sociais"
+title: "Platform Properties e Google Search, tudo sobre a nova integração com Redes Sociais"
 date: 2025-08-08
 permalink: /platform-properties/
 image: /assets/images/platform-properties.webp
