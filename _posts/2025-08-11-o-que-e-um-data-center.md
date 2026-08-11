@@ -75,7 +75,7 @@ Sim, e em algumas regiões isso já é motivo de conflito real com a população
 
 O motivo é o resfriamento. Muitas instalações ainda usam água para dissipar o calor gerado pelos servidores, e em regiões com estresse hídrico esse consumo pesa.
 
-\> "Em um cenário de intensificação das mudanças climáticas, com maior frequência de secas severas e eventos climáticos extremos, a presença de consumidores intensivos de água pode agravar pressões já existentes sobre os recursos hídricos"
+> "Em um cenário de intensificação das mudanças climáticas, com maior frequência de secas severas e eventos climáticos extremos, a presença de consumidores intensivos de água pode agravar pressões já existentes sobre os recursos hídricos"
 
 Alerta o professor Daniel Caixeta Andrade, do Instituto de Economia e Relações Internacionais da UFU, [em reportagem da própria universidade](https://comunica.ufu.br/noticias/2025/09/cientistas-alertam-data-centers-podem-causar-crise-de-agua-e-energia). Nos Estados Unidos, protestos em cidades como Mesa, no Arizona, já pressionaram Amazon, Microsoft e Google a rever ou pausar projetos, [segundo reportagem da ISTOÉ Dinheiro com a Reuters](https://istoedinheiro.com.br/1-trilhao-de-litros-consumo-de-agua-dos-data-centers-acende-alerta-vermelho-amazon-google-e-microsoft-recuam).
 
