@@ -21,7 +21,7 @@ Se você trabalha com marketing, tecnologia ou só quer entender o que sustenta 
 
 Um data center é uma **instalação física construída para abrigar, processar e distribuir dados digitais em grande escala**. Na prática, é um prédio (às vezes um conjunto de prédios) cheio de servidores, sistemas de armazenamento e equipamentos de rede que precisam funcionar 24 horas por dia, sem parar.
 
-\[Imagem\]
+![Datacenter](/assets/images/datacenter02.jpg)
 
 Toda vez que você salva uma foto na nuvem, assiste a um vídeo no streaming ou faz um Pix, existe um data center rodando essa operação nos bastidores, como aponta uma reportagem recente da [Exame sobre os maiores data centers do país](https://exame.com/inteligencia-artificial/os-7-maiores-data-centers-do-brasil/).
 
@@ -55,7 +55,7 @@ Por fim, está a **infraestrutura de energia**. Geradores a diesel, bancos de ba
 
 Nem todo data center oferece o mesmo nível de confiança. O [Uptime Institute criou, ainda nos anos 1990, um sistema de classificação em quatro tiers](https://uptimeinstitute.com/tiers) que virou referência mundial para medir redundância e disponibilidade.
 
-![][image1]
+![tiers](/assets/images/tiers.jpg)
 
 Vale um adendo importante. A própria Uptime Institute parou de divulgar oficialmente esses percentuais de disponibilidade em 2009, então boa parte do mercado usa esses números como referência prática, não como garantia contratual. 
 
