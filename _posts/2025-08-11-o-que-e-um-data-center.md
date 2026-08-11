@@ -85,13 +85,8 @@ Não existe uma única empresa dominante, o mercado brasileiro de data center é
 
 O Brasil já soma 205 data centers em operação, [o triplo do Chile, segundo colocado na América Latina, concentrando 42% de toda a capacidade da região](https://www.poder360.com.br/poder-infra/brasil-lidera-em-data-centers-na-america-latina-com-205-unidades/).
 
-| Empresa | Tipo de atuação | Destaque no mercado brasileiro |
-| :---- | :---- | :---- |
-| Ascenty (Digital Realty) | Colocation | Maior operadora de colocation do país |
-| Equinix | Colocation | Presença consolidada em São Paulo e conexão internacional |
-| Scala Data Centers (DigitalBridge) | Colocation / hyperscale | Forte expansão de capacidade hyperscale em São Paulo |
-| Odata (Aligned) | Colocation | Expansão acelerada em várias regiões do Brasil |
-| AWS, Google Cloud, Microsoft Azure | Nuvem pública | Operam regiões próprias com múltiplas zonas de disponibilidade |
+
+![datacenterbrasil](/assets/images/datacenterbrasil.png)
 
 O mercado de data center no Brasil foi avaliado em US$ 3,4 bilhões em 2024, com projeção de chegar a US$ 5,96 bilhões até 2030, [segundo relatório da ResearchAndMarkets](https://www.businesswire.com/news/home/20250407552434/en/Brazil-Data-Center-Market-Investment-Analysis-Report-2025-2030-Featuring-Key-Players---Ascenty-Equinix-Scala-Data-Centers-ODATA-Elea-Data-Centers-Cirion-Technologies-and-Angola-Cable---ResearchAndMarkets.com).
 
