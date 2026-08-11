@@ -31,23 +31,23 @@ A ideia central é concentrar em um único lugar, com **energia redundante, refr
 
 Por dentro, um data center funciona como um organismo com várias camadas trabalhando juntas.
 
-1. ### **Servidores**
+### **1. Servidores**
 
 A primeira camada é formada pelos **servidores**. Cada servidor de data center é um computador dedicado a processar e armazenar dados, organizado em **racks** (estruturas verticais que acomodam diversos servidores). 
 
 Um data center de médio porte pode reunir milhares deles, trabalhando de forma simultânea e trocando informações continuamente.
 
-2. ### **Rede**
+### **2. Rede**
 
 A segunda camada é a **infraestrutura de rede**. Cabos de fibra óptica, switches e roteadores conectam os servidores entre si e também à internet, permitindo que os dados sejam transmitidos com alta velocidade e baixa latência.
 
-3. ### **Refrigeração**
+### **3. Refrigeração**
 
 A terceira camada, e uma das mais importantes, é a **refrigeração**. Como os servidores operam 24 horas por dia, eles geram uma **grande quantidade de calor**. Sem um sistema eficiente de resfriamento, o superaquecimento pode comprometer o desempenho ou até provocar o desligamento dos equipamentos. 
 
 Para evitar isso, os data centers utilizam soluções como ar-condicionado industrial, refrigeração líquida e, em alguns casos, sistemas baseados em água.
 
-4. ### **Energia**
+### **4. Energia**
 
 Por fim, está a **infraestrutura de energia**. Geradores a diesel, bancos de baterias (UPS) e, em muitos casos, subestações próprias garantem que o data center continue funcionando mesmo durante quedas no fornecimento de energia, mantendo os serviços disponíveis sem interrupções.
 
@@ -55,7 +55,7 @@ Por fim, está a **infraestrutura de energia**. Geradores a diesel, bancos de ba
 
 Nem todo data center oferece o mesmo nível de confiança. O [Uptime Institute criou, ainda nos anos 1990, um sistema de classificação em quatro tiers](https://uptimeinstitute.com/tiers) que virou referência mundial para medir redundância e disponibilidade.
 
-![tiers](/assets/images/tiers.jpg)
+![tiers](/assets/images/tiers.png)
 
 Vale um adendo importante. A própria Uptime Institute parou de divulgar oficialmente esses percentuais de disponibilidade em 2009, então boa parte do mercado usa esses números como referência prática, não como garantia contratual. 
 
