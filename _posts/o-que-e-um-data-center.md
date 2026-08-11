@@ -1,10 +1,14 @@
+---
+layout: post
+title: "O que é um DataCenter? Guia completo sobre funcionamento, servidores nacionais e as polêmicas dessa infraestrutura"
+date: 2025-08-11
+permalink: /o-que-e-um-datacenter/
+image: /assets/images/datacenter.jpg
+tags: [IA]
+description: "Entenda o que é um data center, como funciona por dentro, os tipos de tier e por que essa infraestrutura virou tema de debate no Brasil."
+---
 
-
-## title: "O Que É Um Data Center? Guia Completo Sobre Funcionamento, Servidores e Polêmicas" description: "Entenda o que é um data center, como funciona por dentro, os tipos de tier e por que essa infraestrutura virou tema de debate no Brasil." keywords: "o que é um datacenter, data center o que é como funciona, servidor data center, empresas de data center, como funciona um data center" date: 2026-08-02 categories: \[seo\] tags: \[datacenter, infraestrutura-digital, servidores, tecnologia\]
-
-# O que é um DataCenter? Guia completo sobre funcionamento, servidores nacionais e as polêmicas dessa infraestrutura
-
-\> O Brasil tem uma vantagem real nessa corrida. Matriz elétrica renovável, espaço geográfico e um apetite crescente de investidores globais por infraestrutura de IA
+> O Brasil tem uma vantagem real nessa corrida. Matriz elétrica renovável, espaço geográfico e um apetite crescente de investidores globais por infraestrutura de IA
 
 Em quatro anos, o consumo de energia dos **datacenters no Brasil** deve multiplicar por 11, saindo de 304 MW médios em 2026 para 3.457 MW médios em 2030, [segundo dados do setor elétrico levantados pela CCEE, ONS e EPE](https://movimentoeconomico.com.br/economia/energia/2026/04/17/data-centers-vao-aumentar-o-consumo-de-energia-em-11-vezes-ate-2030/). Por trás desse número está uma pergunta que muita gente faz.
 
