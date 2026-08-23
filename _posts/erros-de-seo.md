@@ -1,7 +1,13 @@
-  
-title: "Erros de SEO que podem estar impedindo seu site de crescer" description: "Veja os erros de SEO e erros técnicos SEO mais comuns que travam o crescimento orgânico, com dados reais e como priorizar as correções." keywords: "erros de SEO, erros técnicos SEO, auditoria técnica de SEO, SEO técnico, Core Web Vitals" date: 2026-08-22 categories: \[seo\] tags: \[erros-de-seo, seo-tecnico, core-web-vitals, auditoria-seo\]
 
-# Erros de SEO que podem estar impedindo seu site de crescer
+---
+layout: post
+title: "Erros de SEO que podem estar impedindo seu site de crescer"
+date: 2025-08-11
+permalink: /erros-de-seo/
+image: /assets/images/errosseo.webp
+tags: [erros-de-seo, seo-tecnico, core-web-vitals, auditoria-seo]
+description: "Veja os erros de SEO e erros técnicos SEO mais comuns que travam o crescimento orgânico, com dados reais e como priorizar as correções."
+---
 
 Segundo o [Web Almanac 2024, produzido pelo HTTP Archive](https://almanac.httparchive.org/en/2024/seo), apenas **48% dos sites mobile e 54% dos sites desktop** passam nos três critérios de Core Web Vitals ao mesmo tempo. Ou seja, mais da metade dos sites mobile no ar hoje carrega algum tipo de **erro técnico** que o dono nem sabe que existe.
 
@@ -81,7 +87,7 @@ Não resolve, porque cada ferramenta enxerga uma fatia diferente do problema. O 
 
 Já um crawler como o **Screaming Frog** simula o rastreamento e encontra redirecionamentos quebrados, tags duplicadas e páginas órfãs, só que não mostra como o Google está reagindo a isso na prática. Por isso a auditoria séria sempre **cruza pelo menos duas fontes de dado antes de fechar um diagnóstico.**
 
-\[Quer ter uma auditoria completa do seu site grátis? Clique e fale hoje mesmo comigo.\]
+\[[![Auditoria SEO gratuita](./imagens/banner-auditoria.png)](https://wa.me/84991132489)]
 
 ## Como priorizar as correções sem travar o site inteiro de uma vez
 
