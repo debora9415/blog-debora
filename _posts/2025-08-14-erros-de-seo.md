@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erros de SEO que podem estar impedindo seu site de crescer"
+title: "5 Erros de SEO que podem estar impedindo seu site de crescer"
 date: 2025-08-14
 permalink: /erros-de-seo/
 image: /assets/images/erroseo.webp
