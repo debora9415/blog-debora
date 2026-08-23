@@ -86,7 +86,7 @@ Não resolve, porque cada ferramenta enxerga uma fatia diferente do problema. O 
 
 Já um crawler como o **Screaming Frog** simula o rastreamento e encontra redirecionamentos quebrados, tags duplicadas e páginas órfãs, só que não mostra como o Google está reagindo a isso na prática. Por isso a auditoria séria sempre **cruza pelo menos duas fontes de dado antes de fechar um diagnóstico.**
 
-![Auditoria SEO gratuita](.assets/imagens/bannerauditoria.png)](https://wa.me/84991132489)]
+[![Auditoria SEO gratuita](/assets/images/bannerauditoria.png)](https://wa.me/84991132489)
 
 ## Como priorizar as correções sem travar o site inteiro de uma vez
 
