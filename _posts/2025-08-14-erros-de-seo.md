@@ -4,7 +4,7 @@ title: "Erros de SEO que podem estar impedindo seu site de crescer"
 date: 2025-08-14
 permalink: /erros-de-seo/
 image: /assets/images/erros-de-seo.webp
-tags: [erros-de-seo, seo-tecnico, core-web-vitals, auditoria-seo]
+tags: [SEO]
 description: "Veja os erros de SEO e erros técnicos SEO mais comuns que travam o crescimento orgânico, com dados reais e como priorizar as correções."
 ---
 
@@ -48,7 +48,7 @@ Primeiro identificar quais páginas disputam a mesma intenção de busca, geralm
 
 ### 4\. Mobile-first mal resolvido
 
-\> mobile responde por **cerca de 60% do tráfego web global** nos últimos anos.  **Google migrou totalmente para indexação mobile-first**
+> mobile responde por **cerca de 60% do tráfego web global** nos últimos anos.  **Google migrou totalmente para indexação mobile-first**
 
 Desde que o **Google migrou totalmente para indexação mobile-first**, o rastreamento passa a olhar primeiro a versão para celular do site. Segundo o [gráfico histórico da Statista com dados do StatCounter](https://www.statista.com/chart/35951/share-of-mobile-device-website-traffic-worldwide-since-2010/), o mobile responde por **cerca de 60% do tráfego web global** nos últimos anos, então qualquer conteúdo ou recurso que existe só na versão desktop simplesmente não está sendo visto pela maior parte dos rastreamentos.
 
@@ -80,13 +80,13 @@ Título genérico, meta description ausente, texto copiado ou reescrito superfic
 
 ## Uma ferramenta de auditoria sozinha resolve o problema?
 
-\>É preciso cruzar pelo menos duas fontes de dado antes de fechar um diagnóstico.  
+>É preciso cruzar pelo menos duas fontes de dado antes de fechar um diagnóstico.  
    
 Não resolve, porque cada ferramenta enxerga uma fatia diferente do problema. O **Google Search Console** mostra o que o próprio Google está vendo (e não vendo) no seu site, mas não aponta a causa raiz de um problema de performance.
 
 Já um crawler como o **Screaming Frog** simula o rastreamento e encontra redirecionamentos quebrados, tags duplicadas e páginas órfãs, só que não mostra como o Google está reagindo a isso na prática. Por isso a auditoria séria sempre **cruza pelo menos duas fontes de dado antes de fechar um diagnóstico.**
 
-\[[![Auditoria SEO gratuita](./imagens/banner-auditoria.png)](https://wa.me/84991132489)]
+[[![Auditoria SEO gratuita](./imagens/banner-auditoria.png)](https://wa.me/84991132489)]
 
 ## Como priorizar as correções sem travar o site inteiro de uma vez
 
