@@ -48,7 +48,7 @@ Primeiro identificar quais páginas disputam a mesma intenção de busca, geralm
 
 ### 4\. Mobile-first mal resolvido
 
-> Mobile responde por **cerca de 60% do tráfego web global** nos últimos anos.  **Google migrou totalmente para indexação mobile-first**
+> Mobile responde por **cerca de 60% do tráfego web global** nos últimos anos. 
 
 Desde que o **Google migrou totalmente para indexação mobile-first**, o rastreamento passa a olhar primeiro a versão para celular do site. Segundo o [gráfico histórico da Statista com dados do StatCounter](https://www.statista.com/chart/35951/share-of-mobile-device-website-traffic-worldwide-since-2010/), o mobile responde por **cerca de 60% do tráfego web global** nos últimos anos, então qualquer conteúdo ou recurso que existe só na versão desktop simplesmente não está sendo visto pela maior parte dos rastreamentos.
 
