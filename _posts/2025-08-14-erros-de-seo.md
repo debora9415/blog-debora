@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erros de SEO que podem estar impedindo seu site de crescer"
-date: 2025-08-11
+date: 2025-08-14
 permalink: /erros-de-seo/
 image: /assets/images/errosseo.webp
 tags: [erros-de-seo, seo-tecnico, core-web-vitals, auditoria-seo]
