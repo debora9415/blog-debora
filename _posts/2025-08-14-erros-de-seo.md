@@ -3,7 +3,7 @@ layout: post
 title: "Erros de SEO que podem estar impedindo seu site de crescer"
 date: 2025-08-14
 permalink: /erros-de-seo/
-image: /assets/images/erros-de-seo.webp
+image: /assets/images/erroseo.webp
 tags: [SEO]
 description: "Veja os erros de SEO e erros técnicos SEO mais comuns que travam o crescimento orgânico, com dados reais e como priorizar as correções."
 ---
