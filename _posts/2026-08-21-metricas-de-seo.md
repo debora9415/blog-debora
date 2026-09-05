@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Métricas de SEO que realmente valem a pena medir ainda em 2026"
+title: "Métricas de SEO que realmente vale a pena medir em 2026"
 date: 2026-08-21
 permalink: /metricas-de-seo/
 image: /assets/images/metricas-seo.jpg
