@@ -8,7 +8,7 @@ tags: [SEO]
 description: "Veja quais métricas de SEO acompanhar de verdade e como montar um KPI de SEO que faça sentido para o negócio."
 ---
 
-\> 60% das buscas terminam sem clique nenhum por causa dos AI Overviews do Google.
+>60% das buscas terminam sem clique nenhum por causa dos AI Overviews do Google.
 
 É comum um cliente perguntar se o SEO está "funcionando" depois de ver um gráfico de cliques subindo no Search Console, mas o que deveria ser a pergunta "Mas isso virou venda?" ou “isso trouxe alguma visibilidade para minha marca?”
 
