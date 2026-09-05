@@ -37,14 +37,7 @@ A busca orgânica representa em média 53,3% de todo o tráfego de um site, mais
 
 Separei as que realmente ajudam a explicar o que está acontecendo e o que fazer a seguir.
 
-| Métrica | O que mostra |
-| :---- | :---- |
-| Tráfego orgânico segmentado | Volume de sessões vindas de busca, separado por página e por intenção |
-| Posição média por cluster de palavra-chave | Se o site está subindo em temas relevantes para o negócio, não só em termos isolados |
-| Taxa de cliques (CTR) por página | Se o snippet e o título convertem impressão em clique |
-| Taxa de conversão do tráfego orgânico | Quantas dessas visitas viram lead, cadastro ou venda |
-| Core Web Vitals | Velocidade e estabilidade da página, fator de ranqueamento e de experiência |
-| Backlinks de domínios relevantes | Autoridade ganha de fontes que fazem sentido para o nicho |
+![metricas SEO](/assets/images/tabela-metricas.png)
 
 Repare que metade dessas métricas de SEO só faz sentido quando cruzada com outra ferramenta, geralmente o CRM. Tráfego e conversão contadas separadamente escondem a métrica que realmente interessa ao dono do negócio, quanto custou para chegar até ali e quanto isso trouxe de volta. 
 
