@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Métricas de SEO que realmente valem a pena medir ainda em 2026"
 date: 2026-08-21
@@ -6,7 +6,7 @@ permalink: /seo-e-trafego-pago/
 image: /assets/images/metricas-seo.jpg
 tags:[SEO]
 description: "Veja quais métricas de SEO acompanhar de verdade, como montar um KPI SEO que faz sentido para o negócio e criar um relatório de SEO que o cliente entende."
---
+---
 
 \> 60% das buscas terminam sem clique nenhum por causa dos AI Overviews do Google.
 
