@@ -12,7 +12,7 @@ Entre 2023 e 2026 o uso de inteligência artificial para produção de conteúdo
 
 O problema é que boa parte desse conteúdo ainda soa genérico. Times que usam **IA para criar textos** sem um processo por trás publicam mais, mas nem sempre publicam melhor, e é essa lacuna que separa quem ranqueia de quem só aumenta o volume de páginas fracas no site.
 
-\> toque humano segue decisivo em estratégia, criatividade e adaptação ao contexto da marca.  
+> toque humano segue decisivo em estratégia, criatividade e adaptação ao contexto da marca.  
  
 
 ## O que muda quando a IA entra no processo de escrita? 
@@ -49,7 +49,7 @@ Esse tipo de automação estruturada é o que separa uma operação de conteúdo
 
 ## Comparativo entre texto genérico de IA e texto com skill personalizada
 
-(imagem)
+![skilseo](/assets/images/tabelaiaxskil.png)
 
 ## O Google penaliza o texto SEO feito com IA?
 
