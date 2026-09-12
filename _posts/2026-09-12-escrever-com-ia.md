@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No escrever com IA sem perder qualidade no texto SEO em 2026"
+title: "Escrever com IA sem perder qualidade no texto SEO em 2026"
 date: 2026-09-12
 permalink: /escrever-com-ia/
 image: /assets/images/escrever-com-ia.jpg
