@@ -1,8 +1,12 @@
 ---
-
-## title: "Como escrever com IA sem perder qualidade no texto SEO em 2026" description: "Aprenda a escrever com IA sem perder qualidade no texto SEO. Veja como usar skill de IA e IA para criar textos que realmente rankeiam." keywords: "escrever com ia, ia para criar textos, texto seo, skill de ia" date: 2026-09-12 categories: \[seo\] tags: \[escrever-com-ia, ia-para-criar-textos, texto-seo, skill-de-ia\]
-
-# Como escrever com IA sem perder qualidade no texto SEO em 2026
+layout: post
+title: "No escrever com IA sem perder qualidade no texto SEO em 2026"
+date: 2026-09-12
+permalink: /escrever-com-ia/
+image: /assets/images/metricas-seo.jpg
+tags: [SEO]
+description: "Aprenda a escrever com IA sem perder qualidade no texto SEO. Veja como usar skill de IA e IA para criar textos que realmente rankeiam."
+---
 
 Entre 2023 e 2026 o uso de inteligência artificial para produção de conteúdo saltou de 61% para 85% entre equipes de marketing, segundo levantamento divulgado pela [Viniensina](https://viniensina.com.br/estatisticas-ia-marketing-digital-2025/). Isso mostra que **escrever com IA** virou parte do fluxo padrão de quem produz conteúdos escritos todos os dias.
 
