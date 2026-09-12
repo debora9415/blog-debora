@@ -3,7 +3,7 @@ layout: post
 title: "No escrever com IA sem perder qualidade no texto SEO em 2026"
 date: 2026-09-12
 permalink: /escrever-com-ia/
-image: /assets/images/metricas-seo.jpg
+image: /assets/images/escrever-com-ia.png
 tags: [SEO]
 description: "Aprenda a escrever com IA sem perder qualidade no texto SEO. Veja como usar skill de IA e IA para criar textos que realmente rankeiam."
 ---
